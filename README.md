@@ -6,16 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyapriyanka-git&label=Profile%20views&color=0e75b6&style=flat" alt="pandyapriyanka-git" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+ I’m currently learning *Deep Learning*
 
-**Let's chat!** about Python, Machine Learning, Deep Learning, or anything else that interests you.
+*Let's chat!* about Python, Machine Learning, Deep Learning, or anything else that interests you.
 
-<a href="mailto:pandyapriyanka934@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="15" style="vertical-align: middle; margin-left: 5px;:">:</a> pandyapriyanka934@gmail.com
+<a href="mailto:pandyapriyanka934@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="15" style="vertical-align: middle; margin-left: 5px;:"></a> pandyapriyanka934@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pandya-priyanka-234a7b30b" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" style="vertical-align: middle; margin-right: 5px;"/>
+  https://www.linkedin.com/in/pandya-priyanka-234a7b30b
 </a>
 </p>
 
@@ -34,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyapriyanka-git&show_icons=true&locale=en&layout=compact" alt="pandyapriyanka-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandyapriyanka-git&" alt="pandyapriyanka-git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandyapriyanka-git&" alt="pandyapriyanka-git" /></p>
