@@ -35,4 +35,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandyapriyanka-git&show_icons=true&locale=en&layout=compact" alt="pandyapriyanka-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandyapriyanka-git&" alt="pandyapriyanka-git" /></p>
